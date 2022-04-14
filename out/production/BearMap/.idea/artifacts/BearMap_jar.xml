@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BearMap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BearMap_jar</output-path>
+    <root id="archive" name="BearMap.jar">
+      <element id="module-output" name="BearMap" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/proj2d_jar/proj2d.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../library-fa20" />
+    </root>
+  </artifact>
+</component>

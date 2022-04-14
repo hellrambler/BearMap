@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proj2d">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/proj2d_jar/proj2d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
